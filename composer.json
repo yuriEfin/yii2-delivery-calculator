@@ -1,6 +1,6 @@
 {
-  "name": "uranum/yii2-delivery-calculator",
-  "description": "Yii2 extension help to get the result of the calculating from the aggregated delivery services",
+  "name": "yuriEfin/yii2-delivery-calculator",
+  "description": "Fork uranum/yii2-delivery-calculator. Yii2 extension help to get the result of the calculating from the aggregated delivery services",
   "type": "library",
   "keywords": [
     "yii2",
@@ -11,8 +11,8 @@
   "authors": [
     {
       "name": "Eugeny Emelyanov",
-      "email": "emel.yanov@mail.ru",
-      "homepage": "https://github.com/uranum"
+      "email": "php.gambit@gmail.com",
+      "homepage": "https://github.com/yuriEfin"
     }
   ],
   "support": {
@@ -30,13 +30,13 @@
   },
   "autoload": {
     "psr-4": {
-      "uranum\\delivery\\": "src",
-      "uranum\\delivery\\migration\\": "migration"
+      "yuriEfin\\delivery\\": "src",
+      "yuriEfin\\delivery\\migration\\": "migration"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "uranum\\delivery\\tests\\": "tests"
+      "yuriEfin\\delivery\\tests\\": "tests"
     }
   }
 }
