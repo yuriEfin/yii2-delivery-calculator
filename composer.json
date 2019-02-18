@@ -1,24 +1,12 @@
 {
   "name": "yuriEfin/yii2-delivery-calculator",
-  "description": "Fork uranum/yii2-delivery-calculator. Yii2 extension help to get the result of the calculating from the aggregated delivery services",
+  "description": "Fork yuriEfin/yii2-delivery-calculator. Yii2 extension help to get the result of the calculating from the aggregated delivery services",
   "type": "library",
   "keywords": [
     "yii2",
     "delivery",
     "calculator"
   ],
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Eugeny Emelyanov",
-      "email": "php.gambit@gmail.com",
-      "homepage": "https://github.com/yuriEfin"
-    }
-  ],
-  "support": {
-    "issues": "https://github.com/uranum/yii2-delivery-calculator/issues?state=open",
-    "source": "https://github.com/uranum/yii2-delivery-calculator"
-  },
   "require": {
     "php": "^7.1.0",
     "yiisoft/yii2": "~2.0.11"
